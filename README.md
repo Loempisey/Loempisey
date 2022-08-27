@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/loem_pisey" target="blank"><img src="https://img.shields.io/twitter/follow/loem_pisey?logo=twitter&style=for-the-badge" alt="loem_pisey" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, FastAPI**
+- 🌱 I’m currently learning **Typescript, FastAPI, and find out more on Blockchain**
 
 - 👨‍💻 All of my projects are available at [Loempisey](Loempisey)
 
