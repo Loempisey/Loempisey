@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript, FastAPI**
 
-- 👨‍💻 All of my projects are available at [check my repository](check my repository)
+- 👨‍💻 All of my projects are available at https://github.com/Loempisey
 
 - 💬 Ask me about **Javascript, Node, Express, Next, OpenAPI**
 
