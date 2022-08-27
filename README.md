@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loempisey&label=Profile%20views&color=0e75b6&style=flat" alt="loempisey" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loempisey" alt="loempisey" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/loem_pisey" target="blank"><img src="https://img.shields.io/twitter/follow/loem_pisey?logo=twitter&style=for-the-badge" alt="loem_pisey" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript, FastAPI**
 
-- 👨‍💻 All of my projects are available at https://github.com/Loempisey
+- 👨‍💻 All of my projects are available at [Loempisey](Loempisey)
 
 - 💬 Ask me about **Javascript, Node, Express, Next, OpenAPI**
 
@@ -22,6 +24,7 @@
 <a href="https://dev.to/loempisey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="loempisey" height="30" width="40" /></a>
 <a href="https://twitter.com/loem_pisey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="loem_pisey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pisey loem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pisey loem" height="30" width="40" /></a>
+<a href="https://instagram.com/pisey_loem_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pisey_loem_" height="30" width="40" /></a>
 <a href="https://medium.com/@loempiseydec25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@loempiseydec25" height="30" width="40" /></a>
 </p>
 
