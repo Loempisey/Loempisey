@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [Loempisey](Loempisey)
 
-- 💬 Ask me about **Javascript, Node, Express, Next, OpenAPI**
-
 - 📫 How to reach me **loempiseydec25@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pisey-loem/](https://www.linkedin.com/in/pisey-loem/)
