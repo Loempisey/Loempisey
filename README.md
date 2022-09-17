@@ -33,6 +33,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loempisey&show_icons=true&locale=en" alt="loempisey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loempisey&" alt="loempisey"  /></p>
-<a href="https://app.daily.dev/Loempisey"><img src="https://api.daily.dev/devcards/2c01b802e6824af89f38d560bfeacc4f.png?r=lae" width="400" alt="Piseydec's Dev Card" /></a>
+<a href="https://app.daily.dev/Loempisey"><img src="https://api.daily.dev/devcards/2c01b802e6824af89f38d560bfeacc4f.png?r=lae" width="400" alt="Piseydec's Dev Card"/></a>
 
