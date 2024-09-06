@@ -33,4 +33,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loempisey&" alt="loempisey" /></p>
 
 
-<a href="https://app.daily.dev/Loempisey"><img  align="left" src="https://api.daily.dev/devcards/2c01b802e6824af89f38d560bfeacc4f.png?r=w4m" width="400" alt="Piseydec's Dev Card"/></a>
+<p align="center"> 
+<a href="https://app.daily.dev/loempisey"><img src="https://api.daily.dev/devcards/v2/0Mzbr66qVNFQDccFp1pqw.png?type=wide&r=swx" width="652" alt="Piseydec's Dev Card"/></a>
+</p>
