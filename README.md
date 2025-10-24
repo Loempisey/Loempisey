@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pisey-loem/](https://www.linkedin.com/in/pisey-loem/)
 
-- ⚡ Fun fact **love traveling, cycling, hiking, camping, adventure, and music**
+- ⚡ Fun fact **music**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
