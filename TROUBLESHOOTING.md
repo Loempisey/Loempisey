@@ -36,3 +36,61 @@ This error occurs when the GitHub Copilot extension in VS Code is using a deprec
    - Click on the account icon in the bottom-left corner of VS Code
    - Sign out of your GitHub account
    - Sign back in and try Copilot Chat again
+
+---
+
+## Docker Compose: Port 3306 already in use
+
+### Error
+
+```
+ERROR: for db  Cannot start service db: driver failed programming external connectivity on endpoint
+cpbank_db (...): failed to bind port 0.0.0.0:3306/tcp: Error starting userland proxy: listen tcp4
+0.0.0.0:3306: bind: address already in use
+```
+
+### Cause
+
+Port 3306 (the default MySQL port) is already occupied by another process on the host machine. This typically happens when:
+
+- A local MySQL server is already running on the host
+- Another Docker container is already using port 3306
+
+### Solution
+
+1. **Find and stop the process using port 3306**
+
+   On Linux/macOS:
+   ```bash
+   sudo lsof -i :3306
+   # or
+   sudo ss -tlnp | grep 3306
+   ```
+   On Windows (PowerShell):
+   ```powershell
+   netstat -ano | findstr :3306
+   ```
+   Then stop the conflicting process:
+   ```bash
+   # If it's a local MySQL service
+   sudo systemctl stop mysql
+   # or
+   sudo service mysql stop
+   ```
+
+2. **Stop any conflicting Docker container**
+   ```bash
+   docker ps --filter "publish=3306"
+   docker stop <container_id>
+   ```
+
+3. **Or change the host port mapping in `docker-compose.yml`**
+
+   If you want to keep the existing MySQL running, remap the container's port to a different host port:
+   ```yaml
+   services:
+     db:
+       ports:
+         - "3307:3306"   # Maps host port 3307 to container port 3306
+   ```
+   Then connect to MySQL on port `3307` instead of `3306`.
